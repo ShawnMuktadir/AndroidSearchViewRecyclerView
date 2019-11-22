@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSearchViewRecyclerView</string>
+    <string name="no_results">No Results</string>
+</resources>
